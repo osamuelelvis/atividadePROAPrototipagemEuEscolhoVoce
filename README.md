@@ -18,14 +18,14 @@ O aplicativo possui uma interface simples:
 ### 📱 Tela principal
 Interface com o botão de ação para gerar um jogo aleatório.
 
-![Tela inicial](https://github.com/user-attachments/assets/1e6a309a-3ca0-452e-97eb-f5fd33f1984e)
+![Tela inicial](https://github.com/user-attachments/assets/b0a4a8cc-f2c8-4b83-9af7-cdf94eb52345)
 
 ### 🎲 Resultado da escolha
 Exibe o jogo sorteado com imagem e nome.
 
-![Tela de interação](https://github.com/user-attachments/assets/8d54aa60-f63d-4bb0-aaaa-345a7cf7fc01)
+![Tela de interação](https://github.com/user-attachments/assets/859099d4-b76f-4b67-b754-1ef270f6ee6c)
 
-![Outra tela](https://github.com/user-attachments/assets/c2833f9b-da84-4f83-b550-a823ab0780f0)
+![Outra tela](https://github.com/user-attachments/assets/941d213f-7b2f-4095-ad99-7b91b94f9f8c)
 
 ## 🎯 Objetivo
 
